@@ -1,5 +1,5 @@
 {
-  "name": "runopencode/twig-bufferized-template",
+  "name": "twig-bufferized-template",
   "description": "Delay and reorder execution of Twig template portions.",
   "keywords": ["twig", "twig extension", "output buffer"],
   "type": "library",
